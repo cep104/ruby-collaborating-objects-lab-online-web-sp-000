@@ -20,5 +20,4 @@ class Artist
     @@all?
   end
 
-
 end
