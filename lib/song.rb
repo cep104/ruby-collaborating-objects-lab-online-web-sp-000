@@ -5,5 +5,5 @@ class Song
     @name = name
   end
 
-  def 
+  def
 end
